@@ -1,0 +1,12 @@
+---
+vault_admin_password_part_2: "apple"
+vault_schema_registry_password_part_2: "apricot"
+vault_kafka_connect_password_part_2: "avocado"
+vault_ksql_password_part_2: "banana"
+vault_kafka_rest_password_part_2: "blueberry"
+vault_control_center_password_part_2: "cherry"
+vault_kafka_connect_replicator_password_part_2: "coconut"
+vault_client_password_part_2: "date"
+vault_user1_password_part_2: "dragonfruit"
+vault_user2_password_part_2: "durian"
+vault_user3_password_part_2: "grape"

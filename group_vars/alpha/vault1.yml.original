@@ -1,0 +1,12 @@
+---
+vault_admin_password_part_1: "white"
+vault_schema_registry_password_part_1: "red"
+vault_kafka_connect_password_part_1: "orange"
+vault_ksql_password_part_1: "brown"
+vault_kafka_rest_password_part_1: "yellow"
+vault_control_center_password_part_1: "green"
+vault_kafka_connect_replicator_password_part_1: "cyan"
+vault_client_password_part_1: "blue"
+vault_user1_password_part_1: "magenta"
+vault_user2_password_part_1: "pink"
+vault_user3_password_part_1: "purple"
